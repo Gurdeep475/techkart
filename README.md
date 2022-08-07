@@ -3,9 +3,10 @@
 Here is the small Project that I made.
 
 # Landing Page
-* It shows you the recently listed courses.
-
 ![image](https://user-images.githubusercontent.com/32095032/183279192-fc6415e5-7ead-4e74-9385-61e1e7679aad.png)
+
+# Single Product Details Page
+![image](https://user-images.githubusercontent.com/32095032/183279409-87de7c16-6c59-4c98-b451-7fcf84ce343a.png)
 
 # Login Page
 ![image](https://user-images.githubusercontent.com/32095032/183279289-e11818b0-ef85-4a53-ba2b-7f47b71feb9a.png)
