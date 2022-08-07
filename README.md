@@ -1,4 +1,7 @@
 # Teachkart.
+Frontend --> HTML, CSS, EJS
+Backend --> Node.js MongoDB
+
 # https://techkart1.herokuapp.com/
 Here is the small Project that I made.
 
