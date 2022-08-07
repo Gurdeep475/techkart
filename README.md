@@ -1,15 +1,27 @@
-# bookart
-# https://bookart2.herokuapp.com/
-Here is the small Project that I made during Node.js Bootcamp.
+# Teachkart.
+Frontend --> HTML, CSS, EJS
+Backend --> Node.js MongoDB
+
+# https://techkart1.herokuapp.com/
+Here is the small Project that I made.
+
 # Landing Page
-![image](https://user-images.githubusercontent.com/32095032/154854897-e1872139-5279-4295-808f-0ba214ace1b8.png)
-# Orders Page
-![image](https://user-images.githubusercontent.com/32095032/154854914-be6cc6fe-ddc9-49cd-b96a-6425021c2e68.png)
-# Add Product
-![image](https://user-images.githubusercontent.com/32095032/154854927-a389544a-3f41-475f-9d88-fe0b49ead7ad.png)
+![image](https://user-images.githubusercontent.com/32095032/183279192-fc6415e5-7ead-4e74-9385-61e1e7679aad.png)
+
+# Single Product Details Page
+![image](https://user-images.githubusercontent.com/32095032/183279409-87de7c16-6c59-4c98-b451-7fcf84ce343a.png)
+
 # Login Page
-![image](https://user-images.githubusercontent.com/32095032/154854946-6815a39d-6ace-4e1e-8f70-cb1451a2dc95.png)
-# Product Detail Page
-![image](https://user-images.githubusercontent.com/32095032/154854962-ff3e4dce-66f0-43eb-a673-bbfbf303d637.png)
-# Signup Form
-![image](https://user-images.githubusercontent.com/32095032/154855044-4e706f3b-f318-491b-b866-94df901c2f04.png)
+![image](https://user-images.githubusercontent.com/32095032/183279289-e11818b0-ef85-4a53-ba2b-7f47b71feb9a.png)
+
+# Signup Page
+![image](https://user-images.githubusercontent.com/32095032/183279302-2b7335dc-2e87-415b-9e4f-d7d645b985a5.png)
+
+# Add Product Page
+![image](https://user-images.githubusercontent.com/32095032/183279356-43c13772-0efe-49fc-aa65-02aa644e675b.png)
+
+# Cart Page
+![image](https://user-images.githubusercontent.com/32095032/183279239-23f931a4-f28e-4aeb-a728-aa1965a52bfc.png)
+
+# Orders Page
+![image](https://user-images.githubusercontent.com/32095032/183279252-bdf3e9f4-b66f-4bcd-a14c-90e00b3a6a18.png)
