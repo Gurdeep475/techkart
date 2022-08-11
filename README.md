@@ -1,4 +1,4 @@
-# Teachkart.
+# TechKart.
 Frontend --> HTML, CSS, EJS
 Backend --> Node.js MongoDB
 
